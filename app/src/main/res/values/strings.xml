@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">SearchUI</string>
+    <string name="search_title">search</string>
+    <string name="ic_search">search</string>
+    <string name="search_hint">search hint</string>
+    <string name="title_activity_searchable">SearchableActivity</string>
+</resources>
